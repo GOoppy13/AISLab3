@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LaptopStock>
+  <Laptop Id="6" StoreId="0">
+    <Company>HP</Company>
+    <Model>15s-fq2018ur</Model>
+    <CPU>Intel Core i3-1115G4</CPU>
+    <RAM>8</RAM>
+    <Price>47999</Price>
+  </Laptop>
+  <Laptop Id="7" StoreId="1">
+    <Company>ASUS</Company>
+    <Model>VivoBook Flip 14 TM420UA-EC063T</Model>
+    <CPU>AMD Ryzen 3 5300U</CPU>
+    <RAM>4</RAM>
+    <Price>49999</Price>
+  </Laptop>
+  <Laptop Id="8" StoreId="2">
+    <Company>Lenovo</Company>
+    <Model>IdeaPad Flex 5 14ALC05</Model>
+    <CPU>AMD Ryzen 3 5300U</CPU>
+    <RAM>8</RAM>
+    <Price>51999</Price>
+  </Laptop>
+  <Laptop Id="9" StoreId="0">
+    <Company>HP</Company>
+    <Model>Pavilion Aero 13-be0050ur</Model>
+    <CPU>AMD Ryzen 5 5600U</CPU>
+    <RAM>8</RAM>
+    <Price>55999</Price>
+  </Laptop>
+  <Laptop Id="10" StoreId="1">
+    <Company>ASUS</Company>
+    <Model>VivoBook 15 X513EA-BQ2370W</Model>
+    <CPU>Intel Core i3-1115G4</CPU>
+    <RAM>8</RAM>
+    <Price>58699</Price>
+  </Laptop>
+</LaptopStock>

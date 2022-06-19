@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AISLab3", "AISLab3\AISLab3.csproj", "{8DE02F96-CB2D-4061-950D-5537D665DC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AISLab3.2", "AISLab3.2\AISLab3.2.csproj", "{064AFDA1-C10C-44FE-8EC0-78A8319C5BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE02F96-CB2D-4061-950D-5537D665DC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE02F96-CB2D-4061-950D-5537D665DC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE02F96-CB2D-4061-950D-5537D665DC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE02F96-CB2D-4061-950D-5537D665DC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064AFDA1-C10C-44FE-8EC0-78A8319C5BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064AFDA1-C10C-44FE-8EC0-78A8319C5BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064AFDA1-C10C-44FE-8EC0-78A8319C5BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064AFDA1-C10C-44FE-8EC0-78A8319C5BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {200005BA-73DD-4EA7-839A-10133D1874F7}
+	EndGlobalSection
+EndGlobal
